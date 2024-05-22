@@ -10,12 +10,12 @@
 
 <!-- <img  align="left" src="EaH.gif" alt="GIF" height="250px"  />  -->
 
-<table>
+<table border="0">
 <tr>
 <td width="50%">
 <pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
 </td>
-<td>
+<td width="70%">
 <img  align="right" src="fyrS.gif" alt="GIF" height="250" width="100%"  /></td>
 </tr>
 </table>
