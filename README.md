@@ -13,7 +13,7 @@
 <table border="0">
 <tr>
 <td>
-<pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
+<pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects<br> to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
 </td>
 <td width="420">
 <img src="fyrS.gif" alt="GIF" height="250" width="100%"  /></td>
