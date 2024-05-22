@@ -9,18 +9,9 @@
 ```
 
 <!-- <img  align="left" src="EaH.gif" alt="GIF" height="250px"  />  -->
-<img  align="right" src="fyrS.gif" alt="GIF" width="490"  /> 
-
-```csharp
-* 🔭 I’m currently working on different projects
-
-* 🌱 I’m currently learning backend development
-
-* 🤔 I’m looking for help with finding projects to 
-contribute to!
-
-* 👩 📫 How to reach me mryoussefoubihi@gmail.com
-``` 
+|                                                                                                                                                                                                                                                  |                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| <pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre> | <img  align="right" src="fyrS.gif" alt="GIF" height="250" width="800"  /> |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,7 +53,7 @@ contribute to!
 
 ## 🚀 &nbsp;Languages and Tools
 
-
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="50" />
@@ -86,7 +77,7 @@ contribute to!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" />
-          
+</p>
 
 ## 🔥 Github Stats
 <!-- <p><img width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyri-X&theme=radical" alt="skyri-X" /></p> -->
