@@ -8,12 +8,10 @@
 > ps
 ```
 
-<!-- <img  align="left" src="EaH.gif" alt="GIF" height="250px"  />  -->
-
 <table border="0">
 <tr>
 <td>
-<pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects<br> to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
+<pre height="100%">* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects<br> to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
 </td>
 <td width="420">
 <img src="fyrS.gif" alt="GIF" height="250" width="100%"  /></td>
@@ -37,7 +35,8 @@
    
       
    ```
-   Occupied with a single leaf, you wouldn't see the tree. Occupied with a single tree, you wouldn't see the entire forest. That what it means to truly see
+   Occupied with a single leaf, you wouldn't see the tree. Occupied with a single tree, 
+   you wouldn't see the entire forest. That what it means to truly see
    ```
    
    
