@@ -12,7 +12,7 @@
 
 <table border="0">
 <tr>
-<td width="30%">
+<td>
 <pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
 </td>
 <td width="50%">
