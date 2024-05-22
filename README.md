@@ -9,9 +9,16 @@
 ```
 
 <!-- <img  align="left" src="EaH.gif" alt="GIF" height="250px"  />  -->
-|                                                                                                                                                                                                                                                  |                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| <pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre> | <img  align="right" src="fyrS.gif" alt="GIF" height="250" width="800"  /> |
+
+<table>
+<tr>
+<td width="50%">
+<pre>* 🔭 I’m currently working on different projects<br><br>* 🌱 I’m currently learning backend development <br><br>* 🤔 I’m looking for help with finding projects to contribute to!<br><br>* 👩 📫 How to reach me mryoussefoubihi@gmail.com</pre>
+</td>
+<td>
+<img  align="right" src="fyrS.gif" alt="GIF" height="250" width="100%"  /></td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
