@@ -57,6 +57,8 @@
 
 ---
 
+<br>
+
 ## 🚀 &nbsp;Languages and Tools
 
 <p align="left">
@@ -84,6 +86,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" />
 </p>
+
+<br>
 
 ## 🔥 Github Stats
 <!-- <p><img width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyri-X&theme=radical" alt="skyri-X" /></p> -->
