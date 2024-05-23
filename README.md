@@ -90,7 +90,7 @@
 <br>
 
 ## 🔥 Github Stats
-<!-- <p><img width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyri-X&theme=radical" alt="skyri-X" /></p> -->
+<img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyri-X&theme=radical" alt="skyri-X" />
 
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=skyri-X&show_icons=true&theme=radical" alt="skyri-X"/>&nbsp;&nbsp;&nbsp;
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=skyri-X&show_icons=true&theme=radical" alt="skyri-X"/>&nbsp;&nbsp;
 <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=skyri-X&theme=radical" alt="skyri-X"/>
