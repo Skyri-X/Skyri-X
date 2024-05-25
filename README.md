@@ -26,38 +26,17 @@
 </p>
 
 
----
 
-<details>
- <summary><h2>🖋 Favorite quotes</h2></summary>
-   
-      
-   
+## 🖋 &nbsp;Favorite quotes
       
    ```
-   Occupied with a single leaf, you wouldn't see the tree. Occupied with a single tree, 
-   you wouldn't see the entire forest. That what it means to truly see.
+   Preoccupied with a single leaf, you won’t see the tree. Preoccupied with a single tree,
+   you’ll miss the entire forest.
    ```
-   
-   
-  
   
    ```
    Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. 
    ```
-   
-   
-   
-      
-
-  
-   
-   
-</details>
-
----
-
-<br>
 
 ## 🚀 &nbsp;Languages and Tools
 
@@ -89,7 +68,7 @@
 
 <br>
 
-## 🔥 Github Stats
+## 🔥 &nbsp;Github Stats
 <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyri-X&theme=radical" alt="skyri-X" />
 
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=skyri-X&show_icons=true&theme=radical" alt="skyri-X"/>&nbsp;&nbsp;
